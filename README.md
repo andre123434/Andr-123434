@@ -1,10 +1,1 @@
-Boas vindas ao meu perfil 💙💙
-Meu nome é nome sobrenome
-
-Estou estudando na Alura
-Estou me desenvolvendo na linguagem JavaScript
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
-Você pode entrar em contato comigo 📫
-alurastartestudante@email.com
-
-@alurastartestudante
+![](https://www.bing.com/images/search?view=detailV2&ccid=IjH%2bX4P7&id=0E8A4B1252E21CBBE9289D2DD983E1B6EDD1F58C&thid=OIP.IjH-X4P7jOOb_fWjUKmN4wHaHV&mediaurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fAkbTY67hbZIZy%2fgiphy.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2231fe5f83fb8ce39bfdf5a350a98de3%3frik%3djPXR7bbhg9ktnQ%26pid%3dImgRaw%26r%3d0&exph=475&expw=480&q=gif+homem+aranha&simid=607990000667729159&FORM=IRPRST&ck=F53A94FABB9C212B571F132A98255E6B&selectedIndex=2&itb=0)
